@@ -1,0 +1,1 @@
+DATA_PATH = "AIML/aiml_projects/Medical_Chatbot_using_RAG/dev_14th_Aug'25/Medical_Chatbot_using_RAG/data"
