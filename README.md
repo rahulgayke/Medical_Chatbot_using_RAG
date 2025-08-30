@@ -23,6 +23,21 @@ PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 HUGGINGFACE_API_TOKEN = "hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
+```bash
+# run the following command to store embeddings to pinecone
+python store_index.py
+```
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up localhost:
+```
+
 ### Techstack Used:
 
 - Python
